@@ -53,4 +53,17 @@ Installing reKairos without PC / Mac via Zeus
 4. Open "Zeus" from you home screen, and click "reKairos" 
 5. reKairos should start installing. If it failed, delete it and try again.
 
-NOTE: Sometines the app may change in name, and it may get revoked often.
+NOTE: Sometimes the app may change in name, and it may get revoked often.
+
+Some notes you might want to be aware of:
+------------------------------------------
+
+1. If you go into ReKairos, remember to set your HUD tool first. There is a little sidebar on the top left with a guide (that shows all settings for In-Game Fortnite and a HUD Tool switcher (between HUD and console).
+2. Revoked means you no longer can have access to the app itself. Let Aria (creator of Zeus) put it back on Zeus. It may take a few days to even 1 or more weeks. Be patient.
+
+Help:
+-----
+
+Be Sure to go to the ReKairos Discord if you need help!
+
+Link: https://discord.gg/E59tWquZY8 (Doesn't expire)
