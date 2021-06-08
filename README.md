@@ -1,9 +1,6 @@
 # ReKairos
 A handy guide on how to install ReKairos!
 
-
-A Guide on how to install ReKairos with ALTSTORE
-
 Installing reKairos on macOS
 ----------------------------
 1. Download AltServer for Mac https://altstore.io/
@@ -45,3 +42,15 @@ Installing reKairos on Windows
 12. Then, go to reKairos Discord ipa channel, tap on the ipa link.
 13. Tap “Open in AltStore”
 14. Wait for it to install, and done.
+
+IPA: https://raw.githubusercontent.com/mlostekk/reKairos/main/IPA/reKairos-v16.0.3.15.ipa (Gets updated often)
+
+Installing reKairos without PC / Mac via Zeus
+---------------------------------------------
+1. On your device, go to https://getzeus.app/
+2. Click "Get Zeus"
+3. Go to Settings > General > Profiles > Zeus and click "Install" on top right corner
+4. Open "Zeus" from you home screen, and click "reKairos" 
+5. reKairos should start installing. If it failed, delete it and try again.
+
+NOTE: Sometines the app may change in name, and it may get revoked often.
