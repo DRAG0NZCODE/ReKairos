@@ -67,3 +67,5 @@ Help:
 Be Sure to go to the ReKairos Discord if you need help!
 
 Link: https://discord.gg/E59tWquZY8 (Doesn't expire)
+
+BONUS: Goose (in the discord server) is a great lad.
