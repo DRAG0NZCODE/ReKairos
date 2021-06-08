@@ -64,8 +64,8 @@ Some notes you might want to be aware of:
 Help:
 -----
 
-Be Sure to go to the ReKairos Discord if you need help!
+Be Sure to go to the ReKairos Discord if you need help! Link: https://discord.gg/E59tWquZY8 (Doesn't expire)
 
-Link: https://discord.gg/E59tWquZY8 (Doesn't expire)
+Twitter: https://twitter.com/rekairosapp
 
 BONUS: Goose (in the discord server) is a great lad.
